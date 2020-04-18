@@ -32,7 +32,7 @@
         </Grid>
         <Image Margin="44,19,44,259.667" Source="800x600_184009-medecin_2.png" Stretch="Fill"/>
 
-        <Button x:Name="acceil" Content="Acceil" HorizontalAlignment="Left" Margin="-2,186,0,0" VerticalAlignment="Top" Width="234" Height="60" Background="#FF0C124F" FontSize="20" Foreground="#FFEEE9E9" Click="Button_Click"/>
+        <Button x:Name="acceil" Content="Acceil" HorizontalAlignment="Left" Margin="-2,184,0,0" VerticalAlignment="Top" Width="234" Height="60" Background="#FF0C124F" FontSize="20" Foreground="#FFEEE9E9" Click="Button_Click"/>
         <Button x:Name="bcree" Content="Créer un RDV" HorizontalAlignment="Left" Margin="-2,0.333,0,0" VerticalAlignment="Top" Width="234" Height="60" Background="#FF0C124F" FontSize="20" Foreground="#FFEEE9E9" Click="Bcree_Click" Grid.Row="1"/>
         <Button x:Name="imp" Content="Ajouter un Patient" HorizontalAlignment="Left" Margin="-4,364,0,0" VerticalAlignment="Top" Width="236" Height="60" Background="#FF0C124F" FontSize="20" Foreground="#FFEEE9E9" Click="Imp_Click" Grid.RowSpan="2"/>
         <DataGrid x:Name="data" AutoGenerateColumns="False" HorizontalAlignment="Left" Height="340" Margin="271,200,-744,0" Background="White" RowBackground="LightYellow" AlternatingRowBackground="LightBlue" VerticalAlignment="Top" Width="705"  Grid.RowSpan="2" >
@@ -55,10 +55,10 @@
                 <ColumnDefinition Width="574*"/>
             </Grid.ColumnDefinitions>
             <Button Content="---&gt; Lister les RDV d'aujourd'hui" HorizontalAlignment="Left" Margin="231,12,0,0" Width="340" FontSize="20"  Grid.Column="2" Click="Button_Click_1" BorderBrush="White"   FontWeight="DemiBold" VerticalAlignment="Top" Height="44" Background="#FF050F56"  Foreground="White" />
-            <TextBox x:Name="date1" Grid.ColumnSpan="3" HorizontalAlignment="Left" Height="39" Margin="46.667,14,0,0"  Text="Date" VerticalAlignment="Top" Width="239" BorderBrush="#FF424141" Background="#FFFDFDFD" FontSize="20" GotFocus="No_GotFocus"/>
-            <Button x:Name="Supprimer" BorderBrush="White"   FontWeight="DemiBold" VerticalAlignment="Top" Height="44" Background="#FF050F56"  Foreground="White" Content="Supprimer" HorizontalAlignment="Left" Margin="276.333,442,0,-420" Width="138" FontSize="20" FontFamily="Arial Narrow" Grid.Column="2" Click="Supprimer_Click"/>
-            <Button x:Name="Imprimer" Content="Imprimer" HorizontalAlignment="Left" Margin="439.333,440,-4,-419" Width="138" BorderBrush="White"    VerticalAlignment="Top" Height="45" Background="#FF050F56"  Foreground="White" FontSize="20" Grid.Column="2" Click="Imprimer_Click"/>
-            <Button x:Name="Modifier" BorderBrush="White"   FontWeight="DemiBold" VerticalAlignment="Top" Height="44" Background="#FF050F56"  Foreground="White" Content="Modifier" HorizontalAlignment="Left" Margin="109.333,443,0,-421" Width="138" FontSize="20" FontFamily="Arial Narrow" Grid.Column="2" Click="Modifier_Click"/>
+            <TextBox x:Name="date1" Grid.ColumnSpan="3" HorizontalAlignment="Left" Height="39" Margin="49,14,0,0"  Text="Date" VerticalAlignment="Top" Width="239" BorderBrush="#FF424141" Background="#FFFDFDFD" FontSize="20" GotFocus="No_GotFocus"/>
+            <Button x:Name="Supprimer" BorderBrush="White"   FontWeight="DemiBold" VerticalAlignment="Top" Height="44" Background="#FF050F56"  Foreground="White" Content="Supprimer" HorizontalAlignment="Left" Margin="274.333,442,0,-420" Width="138" FontSize="20" FontFamily="Arial Narrow" Grid.Column="2" Click="Supprimer_Click"/>
+            <Button x:Name="Imprimer" Content="Imprimer" HorizontalAlignment="Left" Margin="437.333,442,-2,-421" Width="138" BorderBrush="White"    VerticalAlignment="Top" Height="45" Background="#FF050F56"  Foreground="White" FontSize="20" Grid.Column="2" Click="Imprimer_Click"/>
+            <Button x:Name="Modifier" BorderBrush="White"   FontWeight="DemiBold" VerticalAlignment="Top" Height="44" Background="#FF050F56"  Foreground="White" Content="Modifier" HorizontalAlignment="Left" Margin="107.333,443,0,-421" Width="138" FontSize="20" FontFamily="Arial Narrow" Grid.Column="2" Click="Modifier_Click"/>
         </Grid>
 
 
@@ -174,7 +174,7 @@
             </DataGrid>
         </Grid>
         <Button x:Name="consulterB" Content="Consulter les RDV&#xD;&#xA; d'un Patient" Margin="-2,245,0,0" VerticalAlignment="Top" Height="59" Background="#FF0C124F" FontSize="20" Foreground="#FFEEE9E9" Click="ConsulterB_Click_1" IsCancel="True"/>
-        <Button x:Name="Listpat" Content="Liste des Patients" HorizontalAlignment="Left" Margin="-2,304,0,0" VerticalAlignment="Top" Width="234" Height="60" Background="#FF0C124F" FontSize="20" Foreground="#FFEEE9E9" Click="Listpat_Click" IsCancel="True"/>
+        <Button x:Name="Listpat" Content="Liste des Patients" HorizontalAlignment="Left" Margin="-2,306,0,0" VerticalAlignment="Top" Width="234" Height="60" Background="#FF0C124F" FontSize="20" Foreground="#FFEEE9E9" Click="Listpat_Click" IsCancel="True"/>
         <Button x:Name="exempl" Content="Exempels" HorizontalAlignment="Left" Margin="64,133.333,0,0" VerticalAlignment="Top" Width="101" Height="32" Click="Exempl_Click" Grid.Row="1"/>
 
 
