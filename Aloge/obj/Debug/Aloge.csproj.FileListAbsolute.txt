@@ -27,3 +27,17 @@ C:\Users\dallel\Downloads\Aloge\Aloge\obj\Debug\Aloge.Properties.Resources.resou
 C:\Users\dallel\Downloads\Aloge\Aloge\obj\Debug\Aloge.csproj.GenerateResource.cache
 C:\Users\dallel\Downloads\Aloge\Aloge\obj\Debug\Aloge.exe
 C:\Users\dallel\Downloads\Aloge\Aloge\obj\Debug\Aloge.pdb
+C:\Users\dallel\Downloads\Aloge\Doctor-appointment-managment\Aloge\bin\Debug\Aloge.exe.config
+C:\Users\dallel\Downloads\Aloge\Doctor-appointment-managment\Aloge\bin\Debug\Aloge.exe
+C:\Users\dallel\Downloads\Aloge\Doctor-appointment-managment\Aloge\bin\Debug\Aloge.pdb
+C:\Users\dallel\Downloads\Aloge\Doctor-appointment-managment\Aloge\obj\Debug\Aloge.csprojAssemblyReference.cache
+C:\Users\dallel\Downloads\Aloge\Doctor-appointment-managment\Aloge\obj\Debug\MainWindow.g.cs
+C:\Users\dallel\Downloads\Aloge\Doctor-appointment-managment\Aloge\obj\Debug\App.g.cs
+C:\Users\dallel\Downloads\Aloge\Doctor-appointment-managment\Aloge\obj\Debug\Aloge_MarkupCompile.cache
+C:\Users\dallel\Downloads\Aloge\Doctor-appointment-managment\Aloge\obj\Debug\Aloge_MarkupCompile.lref
+C:\Users\dallel\Downloads\Aloge\Doctor-appointment-managment\Aloge\obj\Debug\MainWindow.baml
+C:\Users\dallel\Downloads\Aloge\Doctor-appointment-managment\Aloge\obj\Debug\Aloge.g.resources
+C:\Users\dallel\Downloads\Aloge\Doctor-appointment-managment\Aloge\obj\Debug\Aloge.Properties.Resources.resources
+C:\Users\dallel\Downloads\Aloge\Doctor-appointment-managment\Aloge\obj\Debug\Aloge.csproj.GenerateResource.cache
+C:\Users\dallel\Downloads\Aloge\Doctor-appointment-managment\Aloge\obj\Debug\Aloge.exe
+C:\Users\dallel\Downloads\Aloge\Doctor-appointment-managment\Aloge\obj\Debug\Aloge.pdb
