@@ -1,0 +1,1 @@
+/n l'id du RDV6 /n Nom patient du RDVTABIN /nprenom patient du RDVKAMEL /n date du RDV18/04/2020 /n heure du RDV00:17 /n l'objet du RDVcest pas tres urgent
